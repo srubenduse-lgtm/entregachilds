@@ -1,0 +1,5 @@
+{
+  "name": "Sistema de Salida Escolar",
+  "description": "Sistema de reconocimiento y anuncio de salida de estudiantes con base de datos de acudientes y alumnos.",
+  "requestFramePermissions": ["camera"]
+}
